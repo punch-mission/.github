@@ -7,4 +7,4 @@ https://github.com/user-attachments/assets/041376a3-3f51-4b63-bf72-e82eae2e2f49
 **[Click here to get started with PUNCH software.](https://github.com/punch-mission/punch-mission)**
 
 > [!TIP]
-> Community contributed PUNCH-related software is listed [at this link](https://github.com/punch-mission/punch-mission/blob/contributed-tools/contributed_tools.md)
+> Community contributed PUNCH-related software is listed [at this link](https://github.com/punch-mission/punch-mission/blob/main/contributed_tools.md)
