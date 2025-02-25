@@ -8,3 +8,5 @@ https://github.com/user-attachments/assets/041376a3-3f51-4b63-bf72-e82eae2e2f49
 
 > [!TIP]
 > Community contributed PUNCH-related software is listed [at this link](https://github.com/punch-mission/punch-mission/blob/main/contributed_tools.md)
+
+Early synthetic data is available at [this link](https://data.boulder.swri.edu/mhughes/punch_synthetic_data/). The format is subject to change. 
