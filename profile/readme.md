@@ -5,6 +5,7 @@
 - To learn more about PUNCH, check [the PUNCH website](https://punch.space.swri.edu).
 - To get started with PUNCH software, check [the punch-mission repo](https://github.com/punch-mission/punch-mission).
 - To learn how to download data, check [this example](https://punchbowl.readthedocs.io/en/latest/auto_examples/querying_data.html#sphx-glr-auto-examples-querying-data-py).
+- To ask questions, please log in to GitHub and [open a discussion](https://github.com/punch-mission/punchbowl/discussions).
 
 > [!TIP]
 > Community contributed PUNCH-related software is listed [at this link](https://github.com/punch-mission/punch-mission/blob/main/contributed_tools.md)
