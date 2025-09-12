@@ -11,6 +11,6 @@
 > Community contributed PUNCH-related software is listed [at this link](https://github.com/punch-mission/punch-mission/blob/main/contributed_tools.md)
 > Open an issue or pull request to contribute new tools. 
 
-<img width="846" height="528" alt="image" src="https://github.com/user-attachments/assets/450e1b65-3957-4290-a0a3-030851332e99" />
+<img width="974" height="806" alt="Screenshot 2025-09-12 at 10 07 44" src="https://github.com/user-attachments/assets/539d43c7-2bb9-419d-9dd2-2af239dff855" />
 
-Above is a Version 0c Level 2 image. This shows the three WFIs in a mosaic. As calibration is improved, the seams and artifacts will be reduced. 
+Above is a Level 2 image. This shows the three WFIs in a mosaic. As calibration is improved, the seams and artifacts will be reduced. Level 3 products will have the F-corona and stars subtracted.
