@@ -14,7 +14,7 @@
 <!-- <img width="974" height="806" alt="Screenshot 2025-09-12 at 10 07 44" src="https://github.com/user-attachments/assets/539d43c7-2bb9-419d-9dd2-2af239dff855" /> -->
 
 
-https://github.com/user-attachments/assets/6dc827f8-eebb-45e1-91b7-fd98ca39ada5
+https://github.com/user-attachments/assets/824df492-9bce-408b-8469-487615d28a60
 
 
-The animation above shows a high level view of our pipeline processing, from Level 0 to Level 3.
+The animation above shows a preliminary version (0j) of level 3 PAM products. These are polarized lower-noise mosaics. In version 0k the stars will be removed from these movies.
