@@ -11,10 +11,6 @@
 > Community contributed PUNCH-related software is listed [at this link](https://github.com/punch-mission/punch-mission/blob/main/contributed_tools.md)
 > Open an issue or pull request to contribute new tools. 
 
-<!-- <img width="974" height="806" alt="Screenshot 2025-09-12 at 10 07 44" src="https://github.com/user-attachments/assets/539d43c7-2bb9-419d-9dd2-2af239dff855" /> -->
+https://github.com/user-attachments/assets/86d5c478-3cc7-458e-a466-1af378f9e2aa
 
-
-https://github.com/user-attachments/assets/824df492-9bce-408b-8469-487615d28a60
-
-
-The animation above shows a preliminary version (0j) of level 3 PAM products. These are polarized lower-noise mosaics. In version 0k the stars will be removed from these movies.
+The animation above shows a preliminary version polarized brightness measurement.
