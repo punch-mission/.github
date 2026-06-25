@@ -12,4 +12,4 @@
 https://github.com/user-attachments/assets/ac2583c8-e393-4e5f-968b-fb84c1912694
 
 
-The animation above shows a low-resolution rendering of v0l clear images from May 2026.
+The animation above shows a low-resolution rendering of PUNCH clear images (version 0l, product L3_CAM) from May 2026.
